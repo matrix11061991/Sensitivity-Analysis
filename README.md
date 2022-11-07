@@ -1,2 +1,2 @@
 # SA-Project
-Sensitivity Analysis with python
+Sensitivity Analysis with python, using SALIB
