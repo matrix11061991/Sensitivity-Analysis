@@ -1,5 +1,11 @@
 # SA-Project
 Example of using salib for sensitivity analysis.
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install SALib.
+```bash
+pip install SALib
+```
 ## Example :
 In this example, we will perform a Sobol’ sensitivity analysis of a polynomial function, shown below.
 
