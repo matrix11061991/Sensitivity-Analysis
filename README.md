@@ -19,12 +19,12 @@ Basic plotting facilities are provided for convenience.
 
 ## SALib Paper
 
-```python
+```text
 Herman, J. and Usher, W. (2017) SALib: An open-source Python library for sensitivity analysis. 
 Journal of Open Source Software, 2(9).
 ```
 The library includes multiple methods. For a good review of sensitivity analysis methods, I suggest this paper:
-```python
+```text
 Pianosi, Francesca, et al. "Sensitivity analysis of environmental models: A systematic review with 
 practical workflow." Environmental Modelling & Software 79 (2016): 214-232.
 ```
