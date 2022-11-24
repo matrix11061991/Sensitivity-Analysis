@@ -1,6 +1,6 @@
 # SA-Project
 Example of using salib for sensitivity analysis.
-## Installation
+## Requirement
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install SALib.
 ```bash
