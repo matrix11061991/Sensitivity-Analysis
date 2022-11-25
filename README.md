@@ -7,7 +7,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install SALib.
 pip install SALib
 ```
 ## Example :
-**[Sobol-Method](/Sobol-Method)**
+**[📁 Sobol-Method](/Sobol-Method)**
+
 In this example, we will perform a Sobol’ sensitivity analysis of a polynomial function, shown below.
 
 <img
